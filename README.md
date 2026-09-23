@@ -1,16 +1,16 @@
-# ProyectoM2
+# IT Formación | Laboratorio Angular 19
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.27.
+Laboratorio interactivo para el módulo 2 del curso de Angular 19, impartido por Jordi Teixidó.
 
-## Development server
+## Servidor de desarrollo
 
-To start a local development server, run:
+Arranca el proyecto con:
 
 ```bash
-ng serve
+npm start
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+El servidor siempre utiliza el puerto `5020`. Abre `http://localhost:5020/`; la aplicación se recarga automáticamente al modificar los archivos fuente.
 
 ## Code scaffolding
 
